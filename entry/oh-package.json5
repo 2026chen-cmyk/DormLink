@@ -1,0 +1,9 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "DormLink entry module",
+  "main": "",
+  "author": "陈俊宇",
+  "license": "",
+  "dependencies": {}
+}

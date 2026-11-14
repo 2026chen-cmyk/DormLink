@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "宿舍智联实验室"
+    },
+    {
+      "name": "module_desc",
+      "value": "智能宿舍联动模拟"
+    },
+    {
+      "name": "ability_desc",
+      "value": "规则编排与模拟演练"
+    }
+  ]
+}
