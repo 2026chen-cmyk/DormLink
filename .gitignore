@@ -1,0 +1,12 @@
+.idea/
+.hvigor/
+oh_modules/
+**/oh_modules/
+**/build/
+local.properties
+*.p12
+*.cer
+*.p7b
+*.keystore
+work/
+tests/.runtime/
